@@ -11,5 +11,6 @@
 
     <modules>
         <module>fastsso-server</module>
+        <module>fastsso-spring-boot-starter</module>
     </modules>
 </project>
